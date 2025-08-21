@@ -1,5 +1,5 @@
 {
-    "name": "wickedreports/facebook/graph-sdk",
+    "name": "wickedreports/facebook-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
